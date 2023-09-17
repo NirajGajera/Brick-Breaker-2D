@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1064869320681852817
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1064869320681852822}
+  - component: {fileID: 1064869320681852823}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1064869320681852822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064869320681852817}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 538.8254, y: 959.3777, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1064869320681852823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064869320681852817}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26e4320e37f6b0349b0ae7f0aca6250e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentLevel: 2
+  numberOfBrickInLevel: 11
+  maxLifeBrick: 20
+  darkMode: {fileID: 21300000, guid: e3b656d06cda7f6438b3e3b10852a70c, type: 3}
+  lightMode: {fileID: 21300000, guid: 404204ff0db65b6439009d1a7c3433e8, type: 3}
+  click: {fileID: 8300000, guid: d4ba83184dc87b04688bab774e020cfa, type: 3}
+  ball: {fileID: 8300000, guid: 5572418b9898fab4ab60eddc9a82730f, type: 3}
+  levelComplete: {fileID: 8300000, guid: 2d1c8c625ff39f94d80f09c79e4fe450, type: 3}
+  levelFail: {fileID: 8300000, guid: be2fbc4858307814a97e1f8dbd370c2d, type: 3}
+  levelConstruction: {fileID: 0}
+  gatherButton: {fileID: 0}
+  twoButtons: {fileID: 0}
+  pauseMenu: {fileID: 0}
+  levelFailed: {fileID: 0}
+  levelCompleted: {fileID: 0}
+  soundBtn: {fileID: 0}
+  modeButton: {fileID: 0}
+  scoreText: {fileID: 0}
+  contentProgressBar: {fileID: 0}
+  soundON: {fileID: 21300000, guid: af2eeedbeba711b499aab025a277f72e, type: 3}
+  soundOFF: {fileID: 21300000, guid: 08bcbcd4e62f56c4d99e3de6e15eea74, type: 3}
+  gatherBalls: 0
+  nGatherBalls: 0
+  isDecreaseButtonPresed: 0
+  score: 0
+  numberOfPointsInLevel: 0
+  destroyedBricks: 0
