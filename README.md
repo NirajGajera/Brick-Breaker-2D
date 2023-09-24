@@ -46,31 +46,16 @@
 
 - **Engaging Gameplay:** Immerse yourself in the wonderful ball crusher experience.
 
-- # Screenshots
+-# Screenshots
 
 Here are some screenshots of the Brick And Ball game:
 
-1. **Screenshot 1**
-   
-   ![Screenshot 1](s1.png)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 |
+|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| ![Screenshot 1](s1.png) | ![Screenshot 2](s2.png) | ![Screenshot 3](s3.png) | ![Screenshot 4](s4.png) | ![Screenshot 5](s5.png) |
 
-2. **Screenshot 2**
+Feel free to click on each screenshot to view it in full size and get a closer look at the gameplay.
 
-   ![Screenshot 2](s2.png)
-
-3. **Screenshot 3**
-
-   ![Screenshot 3](s3.png)
-
-4. **Screenshot 4**
-
-   ![Screenshot 4](s4.png)
-
-5. **Screenshot 5**
-
-   ![Screenshot 5](s5.png)
-
-Feel free to click on the screenshots to view them in full size and get a closer look at the gameplay.
 
 
 ---
