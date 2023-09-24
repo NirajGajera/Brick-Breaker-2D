@@ -18,21 +18,40 @@
 
 - **High Score:** Compete with friends and aim for the top of the leaderboard.
 
-- **Customization:** Customize your paddle and ball to suit your style.
-
 - **Immersive Audio:** Enjoy the game with sound effects and music.
+  
+# How to Play
 
-## Demo
+## Short Description
 
-See the game in action by checking out our live demo [here](demo-link).
+**Brick And Ball** is a classic, fun, and challenging game where your goal is to crush all the bricks with the ball. It's an addictive and brain-relaxing experience that offers hours of entertainment.
 
-![Demo GIF](demo.gif)
+## Gameplay Instructions
 
-## Getting Started
+1. **Aim and Shoot:** To play Brick And Ball, simply hold your finger on the screen to aim in the direction you want to shoot.
 
-To play Brick Breaker 2D on your local machine, follow these simple steps:
+2. **Break Bricks:** Release your finger to shoot the ball. Your objective is to break as many bricks as you can before they reach the bottom of the screen.
 
-1. **Clone the repository** to your computer:
+3. **Utilize Power-Ups:** Don't worry if you face challenges. The game provides various supportive items to help you clear levels. Collect these items to earn extra balls and make it easier to progress.
 
-   ```shell
-   git clone https://github.com/[Your GitHub Username]/brick-breaker-2d.git
+4. **Chain Reactions:** When the ball hits a brick, it creates a chain reaction, causing multiple bricks to break. Strategically plan your shots to maximize the impact.
+
+5. **Complete Levels:** Your goal is to complete levels and compare your achievements with your friends. Can you conquer all the levels and become the ultimate Brick And Ball master?
+
+## Features
+
+- **One-Handed Gameplay:** Play with ease using just one finger for controls.
+
+- **Relaxing Experience:** Take a break from your day and enjoy the game's stress-relieving gameplay.
+
+- **100% Free:** Brick And Ball is a free-to-play puzzle game.
+
+- **Precise Controls:** Easily control the aim of the balls to hit your targets accurately.
+
+- **Numerous Levels:** Challenge yourself with a multitude of breaking bricks levels.
+
+- **Engaging Gameplay:** Immerse yourself in the wonderful ball crusher experience.
+
+---
+
+Get ready to test your aiming skills and strategic thinking in **Brick And Ball**. Crush those bricks, break those records, and have a blast!
