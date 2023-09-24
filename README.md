@@ -3,7 +3,7 @@
   <img src="3.png" alt="Gameplay Screenshot" width="300">
 </div>
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Brick Breaker 2D** is an exciting arcade-style game that brings back the nostalgia of classic brick-breaking games. Control the paddle, bounce the ball, and destroy all the bricks to win. Get ready for hours of addictive gameplay and challenge your friends to beat your high score!
 
