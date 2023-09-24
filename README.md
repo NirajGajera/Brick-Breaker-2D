@@ -22,12 +22,6 @@
   
 # How to Play
 
-## Short Description
-
-**Brick And Ball** is a classic, fun, and challenging game where your goal is to crush all the bricks with the ball. It's an addictive and brain-relaxing experience that offers hours of entertainment.
-
-## Gameplay Instructions
-
 1. **Aim and Shoot:** To play Brick And Ball, simply hold your finger on the screen to aim in the direction you want to shoot.
 
 2. **Break Bricks:** Release your finger to shoot the ball. Your objective is to break as many bricks as you can before they reach the bottom of the screen.
@@ -51,6 +45,33 @@
 - **Numerous Levels:** Challenge yourself with a multitude of breaking bricks levels.
 
 - **Engaging Gameplay:** Immerse yourself in the wonderful ball crusher experience.
+
+- # Screenshots
+
+Here are some screenshots of the Brick And Ball game:
+
+1. **Screenshot 1**
+   
+   ![Screenshot 1](s1.png)
+
+2. **Screenshot 2**
+
+   ![Screenshot 2](s2.png)
+
+3. **Screenshot 3**
+
+   ![Screenshot 3](s3.png)
+
+4. **Screenshot 4**
+
+   ![Screenshot 4](s4.png)
+
+5. **Screenshot 5**
+
+   ![Screenshot 5](s5.png)
+
+Feel free to click on the screenshots to view them in full size and get a closer look at the gameplay.
+
 
 ---
 
