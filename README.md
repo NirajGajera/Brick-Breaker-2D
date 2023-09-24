@@ -1,7 +1,7 @@
 # Brick Breaker 2D
 
 <div align="right">
-    <img src="screenshot.png" alt="Gameplay Screenshot" width="300">
+    <img src="3.png" alt="Gameplay Screenshot" width="200">
 </div>
 
 
